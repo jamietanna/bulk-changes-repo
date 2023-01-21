@@ -14,4 +14,4 @@
            go-version-file: 'go.mod'
 
        - name: Test
-         run: go test ./...
+         run: make test
